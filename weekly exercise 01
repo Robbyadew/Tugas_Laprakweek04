@@ -1,0 +1,8 @@
+umur =int(input("Input Umur "))  
+
+if age > 17:
+    print("Boleh Membuat SIM")
+else:
+    print("Tidak Boleh Membuat SIM")
+
+print("Selesai")
