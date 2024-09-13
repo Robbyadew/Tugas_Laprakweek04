@@ -1,0 +1,18 @@
+nilai = int(input("Input Nilai "))
+
+if nilai >= 90:
+    print("Nilai A")
+elif nilai >= 80:
+    print("Nilai B+")
+elif nilai >= 70:
+    print("Nilai C")
+elif nilai >= 60:
+    print("Nilai C+")
+elif nilai >= 50:
+    print("Nilai c")
+elif nilai >= 40:
+    print("Nilai D")
+else:
+    print("Nilai E")
+
+print("Selesai")
